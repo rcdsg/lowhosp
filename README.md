@@ -1,4 +1,4 @@
-# Teste APP Hotel - RcProject
+# APP Hotel Test - RcProject - BETA version
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
